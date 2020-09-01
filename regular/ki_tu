@@ -1,0 +1,21 @@
+^ tìm giá trị đầu tiên vd ^who
+$ tìm giá trị cuối cùng vd who$
+\ tìm kiếm giá trị đặt biệt (^,$,.,/.,...) vd \$
+. lấy tất cả kí tự
+.. lấy tất cả kí tự gồm 2 chữ vd tu an 
+[] tìm tập hợp các ký tự nào đó vd [ouy]
+[]. tìm tập hợp các ký tự nào đó thêm 1 ký tự theo dấu 
+[].. thêm 2 ký tự
+[][] tìm tập hợp các ký tự nó giao nhau vd [ab][bc] => ab,ac,bb,bc
+[a-z] tìm tập hợp từ a - z vd abcde....z vd [c-ka-d2-6] là c-k a-d 2-6
+[^a-c] những tập hợp k nằm trong từ a-c
+(|) | là hoặc vd(on|ues|fri) hoặc on hoặc ues hoặc fri vd (on|ues|fri)day 
+* là xuất hiện 0 hoặc nhiều lần vd a*b
+a*b 
+* = 0b
+* = 1ab
+* = 2 aab
+* = 3 aaab
++ tương tự *
+? xuất hiện 0 hoặc 1 lần vd a?b
+
