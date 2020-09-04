@@ -2,10 +2,10 @@
 -- version 5.0.2
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost
--- Generation Time: Sep 01, 2020 at 04:46 AM
--- Server version: 10.4.14-MariaDB
--- PHP Version: 7.2.33
+-- Host: 127.0.0.1
+-- Generation Time: Sep 04, 2020 at 03:18 PM
+-- Server version: 10.4.13-MariaDB
+-- PHP Version: 7.2.32
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -219,7 +219,10 @@ INSERT INTO `notepads` (`id`, `np_name`, `np_slug`, `np_category_id`, `np_descri
 (129, 'round', 'round', 2, 'làm tròn số', '<?php\r\n// làm tròn đến số nguyên gần nhất\r\n    $n1 = 8.5;\r\n    $number = round($n1); //kết quả 4\r\n    $number1 = round($n1,2); //kết quả 3.52\r\n    // số nguyên gần nhất và lớn nhất\r\n    $number2 = round($n1,0,PHP_ROUND_HALF_UP); //kết qủa\r\n    // số nguyên gần nhất và nhỏ nhất\r\n    $number3 = round($n1,0,PHP_ROUND_HALF_DOWN);\r\n    $number4 = round($n1,0,PHP_ROUND_HALF_ODD); // gần nhất và là số chẵn\r\n    $number5 = round($n1,0,PHP_ROUND_HALF_EVEN); //gần nhất và là số lẻ\r\n\r\n    echo \"round(): \".$number .\"<br>\";\r\n    echo \"round(n,0,HP_ROUND_HALF_UP): \".$number2.\"<br>\";\r\n    echo \"round(n,0,PHP_ROUND_HALF_DOWN: ): \".$number3.\"<br>\";\r\n    echo \"round(n,0,PHP_ROUND_HALF_EVEN): \" .$number4.\"<br>\";\r\n    echo \"round(n,0,PHP_ROUND_HALF_ODD): \" .$number5;', NULL, NULL, NULL, '2020-08-29 07:54:42', NULL),
 (130, 'sort()', 'sort', 2, 'sắp xếp mảng từ nhỏ đến lớn\r\n//keyword: sắp xếp từ nhỏ đến lớn', '<?php\r\n    $n1 = array(-5,5,8,6,1,10,11);\r\n\r\n    sort($n1);\r\n\r\n    echo \"<pre>\";\r\n    print_r($n1);\r\n    echo \"<pre>\";', NULL, NULL, NULL, '2020-08-29 07:55:36', NULL),
 (131, 'number_format()', 'number-format', 2, 'format số', '<?php\r\n    $n1 = 5112132.1515;\r\n    $output = number_format($n1); //kết quả 5,112,132\r\n    echo \"Number Format: \" .$output;', NULL, NULL, NULL, '2020-08-29 07:56:05', NULL),
-(132, 'abs()', 'abs', 2, 'trả về giá trị tuyệt đối\r\n//keyword: trả về số dương', '<?php\r\n    // trả về số dương\r\n    $n1 = -12.5;\r\n    $output = abs($n1); //kết quả 12\r\n    echo $output;', NULL, NULL, NULL, '2020-08-29 07:56:38', NULL);
+(132, 'abs()', 'abs', 2, 'trả về giá trị tuyệt đối\r\n//keyword: trả về số dương', '<?php\r\n    // trả về số dương\r\n    $n1 = -12.5;\r\n    $output = abs($n1); //kết quả 12\r\n    echo $output;', NULL, NULL, NULL, '2020-08-29 07:56:38', NULL),
+(133, 'filetype', 'filetype', 2, 'dir là thư mục file là tập tin\r\nkiểm tra kiểu file', '<?php\r\n    //$filename = \'files\'; //kết quả dir\r\n    $filename = \'files/abc.txt\'; //kết quả file\r\n    $type = filetype($filename);\r\n    echo $type;\r\n    // trả về 2 kiểu của $filename tập tin hoặc thư mục\r\n    // dir là thư mục file là tập tin', NULL, NULL, NULL, '2020-09-04 06:10:42', NULL),
+(134, 'filesize', 'filesize', 2, '*', '<?php\r\n    $filename = \'files/abc.txt\';\r\n    $size = filesize($filename);\r\n    function convertSize ($size, $totalDigit = 2,$distance = \' \'){\r\n        $unit = array(\'B\',\'KB\',\'MB\',\'GB\',\'TB\');\r\n        $lenght = count($unit);\r\n        for ($i = 0; $i < $lenght; $i++){\r\n            if($size > 1024){\r\n                $size = $size/1024;\r\n            }else{\r\n                $unit = $unit[$i];\r\n            break;\r\n            }\r\n        }\r\n        $result = round($size,$totalDigit) .$distance .$unit;\r\n        return $result;\r\n    }\r\n    echo convertSize($size,3);', NULL, NULL, NULL, '2020-09-04 06:15:54', NULL),
+(135, 'file_exits', 'file-exits', 2, 'kiểm tra file có tồn tại không', '<?php\r\n    //$filename = \'files\';\r\n    $filename = \'files/abc.txt\';\r\n    if(file_exists($filename)){\r\n        echo \"tồn tại\";\r\n    }else{\r\n        echo \"Không tồn tại\";\r\n    }', NULL, NULL, NULL, '2020-09-04 06:16:39', NULL);
 
 -- --------------------------------------------------------
 
@@ -302,7 +305,7 @@ ALTER TABLE `migrations`
 -- AUTO_INCREMENT for table `notepads`
 --
 ALTER TABLE `notepads`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=133;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=136;
 
 --
 -- AUTO_INCREMENT for table `users`
