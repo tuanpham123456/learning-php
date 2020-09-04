@@ -1,0 +1,115 @@
+
+TaiLieuCNTT	
+MIỄN PHÍDesignTài Liệu PDFPythonSwiftPHPJavaC/C++C# / ASP.NETJavaScriptThêm
+Lập trình web chuyên nghiệp với PHP - Level 2 - Lưu Trường Hải Lân
+CHƯƠNG 00. CÁC KÝ HIỆU TRONG REGULAR EXPRESSION    (HƯỚNG DẪN XEM VIDEO)
+Bài 01: Regular Expression là gì?   xem video   (FREE)
+Bài 02: Các ký hiệu trong Regular Expression   xem video  (FREE)
+Bài 03: Ôn tập  xem video  (FREE)
+CHƯƠNG 01. PHP REGEX    (HƯỚNG DẪN XEM VIDEO)
+Bài 04: Ôn tập Regular Expression   xem video  (FREE)
+Bài 05: Tìm hiểu hàm PREG_MTAH và PREG_MATH_ALL   xem video  (FREE)
+Bài 06: Tìm hiểu hàm PREG_MTAH và PREG_MATH_ALL (cont)   xem video  (FREE)
+Bài 07: Tìm hiểu hàm PREG_MTAH và PREG_MATH_ALL (end)   xem video  (FREE)
+Bài 08: Tìm hiểu hàm PREG_REPLACE   xem video  (FREE)
+Bài 09: Tìm hiểu hàm PREG_MTAH và PREG_MATH_ALL (cont-end)   xem video  (FREE)
+Bài 10: Kỹ thuật quét tin tức của VnExpress   xem video  (FREE)
+Bài 11: Kỹ thuật quét tin tức của VnExpress (cont-end)   xem video  (FREE)
+Bài 12: Kỹ thuật quét tin tức của Dantri   xem video  (FREE)
+Bài 13: Kỹ thuật quét tin tức của Dantri (cont-end)  xem video  (FREE)
+CHƯƠNG 02. PHP FILE    (HƯỚNG DẪN XEM VIDEO)
+Bài 14: Vấn đề 1,2   xem video
+Bài 15: Vấn đề 3,4   xem video
+Bài 16: Vấn đề 5,6,7   xem video
+Bài 17: Vấn đề 8,9,10   xem video
+Bài 18: Vấn đề 11,12   xem video
+Bài 19: Vấn đề 13,14   xem video
+Bài 20: Vấn đề 14 (cont-end)   xem video
+Bài 21: Vấn đề 15   xem video
+Bài 22: Ôn tập   xem video
+Bài 23: Ôn tập (cont)   xem video
+Bài 24: Ôn tập (cont-end)   xem video
+Bài 25: Một số yêu cầu bổ sung   xem video
+Bài 26: Một số yêu cầu bổ sung (cont-end)  xem video
+CHƯƠNG 03. PHP RECURSIVE    (HƯỚNG DẪN XEM VIDEO)
+Bài 27: Vấn đề 1,2,3   xem video
+Bài 28: Vấn đề 4   xem video
+Bài 29: Vấn đề 4 (cont-end)   xem video
+Bài 30: Vấn đề 5   xem video
+Bài 31: Vấn đề 6   xem video
+Bài 32: Vấn đề 7  xem video
+CHƯƠNG 04. PHP FILE UPLOAD    (HƯỚNG DẪN XEM VIDEO)
+Bài 33: Vấn đề 1,2,3,4   xem video
+Bài 34: Vấn đề 5   xem video
+Bài 35: Vấn đề 6  xem video
+CHƯƠNG 05. PHP FILTER    (HƯỚNG DẪN XEM VIDEO)
+Bài 36: Vấn đề 1,2,3   xem video
+Bài 37: Vấn đề 4,5,6  xem video
+CHƯƠNG 06. ERROR AND EXCEPTION    (HƯỚNG DẪN XEM VIDEO)
+Bài 38: Vấn đề 1,2,3   xem video
+Bài 39: Vấn đề 4,5,6  xem video
+CHƯƠNG 07. SESSION AND COOKIE    (HƯỚNG DẪN XEM VIDEO)
+Bài 39: Vấn đề 1,2,3   xem video
+Bài 40: Vấn đề 4,5   xem video
+Bài 41: Vấn đề 5 (cont)   xem video
+Bài 42: Vấn đề 5 (end)   xem video
+Bài 43: Vấn đề 6   xem video
+Bài 44: PHP Mail  xem video
+CHƯƠNG 08. TÌM HIỂU XML    (HƯỚNG DẪN XEM VIDEO)
+Bài 45: Vấn đề 1,2,3,4,5,6   xem video
+Bài 46: Vấn đề 7   xem video
+Bài 47: Vấn đề 7 (cont-end)   xem video
+Bài 48: Vấn đề 8,9   xem video
+Bài 49: Vấn đề 10  xem video
+CHƯƠNG 09. SIMPLE XML    (HƯỚNG DẪN XEM VIDEO)
+Bài 50: Vấn đề 1   xem video
+Bài 51: Vấn đề 2  xem video
+CHƯƠNG 10. TÌM HIỂU VỀ DOM DOCUMENT    (HƯỚNG DẪN XEM VIDEO)
+Bài 52: Vấn đề 1   xem video
+Bài 53: Vấn đề 1 (cont)   xem video
+Bài 54: Vấn đề 1 (end)   xem video
+Bài 55: Vấn đề 2   xem video
+Bài 56: Vấn đề 3   xem video
+Bài 57: Vấn đề 3 (cont-end)  xem video
+CHƯƠNG 11. LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG    (HƯỚNG DẪN XEM VIDEO)
+Bài 58: Class And Object   xem video
+Bài 59: Property And Method   xem video
+Bài 60: Constructor And Destructor   xem video
+Bài 61: Constructor And Destructor (cont-end)   xem video
+Bài 62: Tính kế thừa And Overwrite   xem video
+Bài 63: Tính kế thừa And Overwrite (cont)   xem video
+Bài 64: Phạm vi và sự ảnh hưởng   xem video
+Bài 65: Phạm vi và sự ảnh hưởng (cont)   xem video
+Bài 66: Phạm vi và sự ảnh hưởng (cont)   xem video
+Bài 67: Phạm vi và sự ảnh hưởng (cont-end)   xem video
+Bài 68: Một số phương thức khác   xem video
+Bài 69: Một số phương thức khác (cont)   xem video
+Bài 70: Một số phương thức khác (cont)   xem video
+Bài 71: Một số phương thức khác (cont)   xem video
+Bài 72: Một số phương thức khác (cont-end)   xem video
+Bài 73: Bài tập   xem video
+Bài 74: Bài tập (cont)   xem video
+Bài 75: Bài tập (cont)   xem video
+Bài 76: Bài tập (cont)   xem video
+Bài 77: Bài tập (cont-end)  xem video
+CHƯƠNG 12. PHP EXTENSIONS    (HƯỚNG DẪN XEM VIDEO)
+Bài 78: Class 1 - PHP Thumb   xem video
+Bài 79: Class 2 - PHP Mailer   xem video
+Bài 80: Class 2 - PHP Mailer (cont-end)   xem video
+Bài 81: Class 3 - FCK Editor   xem video
+Bài 82: Class 3 - FCK Editor (cont)   xem video
+Bài 83: Class 3 - FCK Editor (cont-end)   xem video
+Bài 84: Class 4 - CAPTCHA   xem video
+Bài 85: Class 4 - CAPTCHA (cont-end)   xem video
+Bài 86: Class 5 - SIMPLEPIE   xem video
+Bài 87: Tìm hiểu về OPENID   xem video
+Bài 88: Class 7 - Mobile Detect   xem video
+Bài 89: Class 8 - CACHE   xem video
+Bài 90: Class 9 - VALIDATE   xem video
+Bài 91: Class 9 - VALIDATE (cont)   xem video
+Bài 92: Class 9 - VALIDATE (cont)   xem video
+Bài 93: Class 9 - VALIDATE (cont)   xem video
+Bài 94: Class 9 - VALIDATE (cont-end)  xem video
+Mọi thắc mắc xin liên hệ admin: https://www.facebook.com/tailieuIT2020/
+
+

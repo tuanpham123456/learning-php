@@ -16,6 +16,6 @@ a*b
 * = 1ab
 * = 2 aab
 * = 3 aaab
-+ tương tự *
++ tương tự * nhưng xuất hiện từ 1
 ? xuất hiện 0 hoặc 1 lần vd a?b
 
