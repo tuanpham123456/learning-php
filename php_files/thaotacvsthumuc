@@ -1,0 +1,8 @@
+
+getcwd() trả về thư mục hiện tại
+realpath() trả về đường dẫn tuyệt đối của đường dẫn path
+chdir() thay đổi thư mục hiện tại
+dir() mở 1 thư mục lên và thao tác với nó (3 thao tác read,rewind,close)
+opendir() mở 1 thư mục lên và thao tác với nó
+closedir() đóng thư mục đc mở lên bằng opendir
+scandir() lấy danh sách tập tin và đường dẫn path
