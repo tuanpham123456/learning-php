@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+
+<book>
+    <title>Sách PHP</title>
+    <author>TP</author>
+    <page>500</page>
+    <image src="b.png"/>
+</book>
