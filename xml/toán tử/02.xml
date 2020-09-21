@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="01.xsl"?>
+<?xml-stylesheet type="text/xsl" href="02.xsl"?>
 <book_shop>
     <book id="1">
         <title>Sách PHP</title>
@@ -7,8 +7,8 @@
         <page>500</page>
         <weight units="gram">500</weight>
         <price>
-            <real>60</real>
-            <saleoff>30</saleoff>
+            <real>40</real>
+            <saleoff>40</saleoff>
         </price>
     </book>
     <book id="2">

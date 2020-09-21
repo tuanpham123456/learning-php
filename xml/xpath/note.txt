@@ -1,0 +1,4 @@
+/ lấy phần tử gốc của tập tin XML
+// lấy ở tại đó
+. lấy tất cả ở hiện tại thử mục đó
+nodename Lấy tất cả các phần tử có tên nodename
