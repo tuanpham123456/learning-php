@@ -1,0 +1,19 @@
+__contruct
+clone
+self::
+parent::
+__autoload() nạp tự động đường dẫn truyền vào
+function __autoload($className){
+    $path   = '/class/';
+    require_once $path . "{$className}.class.php";
+
+}
+__toString() chuyển đối tượng thàn 1 chuỗi
+__set() thiết lập thuộc tính cho đối tượng mặc dù chưa dc khai báo trong class
+public function __set($name,$value){
+    return $this->$name = $value;
+}
+__get() lấy giá trị thuộc tính trong class dù đc gắn khóa private và protected
+public function __get($name){
+    return $this->$name;
+}
